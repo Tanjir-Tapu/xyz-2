@@ -1,0 +1,41 @@
+.mother-div {
+    width: 300px;
+    border: 1px, #ccc0c0, solid;
+    border-radius: 20px;
+    background-color: rgb(250, 248, 248);
+    margin-left: 50px;
+    /* margin-left: 200px; */
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.in-div {
+    padding: 15px;
+}
+
+.tk-clls {
+    display: flex;
+}
+
+button {
+    background-color: white;
+    border: 1px solid red;
+    border-radius: 10px;
+    margin-left: 20px;
+    color: rgb(122, 0, 0);
+}
+
+.cmn-corse {
+    color: rgb(228, 113, 6);
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+
+.grand-mother-div{
+    display: flex;
+    justify-content: center;
+}
